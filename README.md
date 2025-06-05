@@ -64,22 +64,22 @@ git clone https://github.com/yourusername/RockPaperScissors.git
 - Randomized computer moves and alternating objectives
 - Clean separation of UI and game logic
 
-**Acknowledgements**
+## Acknowledgements
 
 This project is based on Paul Hudson's 100 Days of SwiftUI course. All credit for the original concept, structure, and educational content goes to Paul Hudson and the Hacking with Swift community. This repository is intended solely for personal learning and demonstration.
 
-**Author**
+## Author
 
 **Vishesh Singh Rajput aka specstan**
 
-**License & Usage**
+## License & Usage
 
 **Educational Use Only.**
 
 This repository is a student implementation of Paul Hudson's tutorial and is not licensed for commercial use or redistribution. For any other use, please consult the original course terms or contact Paul Hudson.
 
-**Contributing**
+## Contributing
 
 This project does not accept external contributions.
 
-**For queries about this repository, please contact the author. For questions about the original course or code, please refer to Paul Hudson's official channels.**
+For queries about this repository, please contact the author. For questions about the original course or code, please refer to Paul Hudson's official channels.
